@@ -1,5 +1,5 @@
-classses = 4
-train = train_4.txt 
-valid = val_4.txt 
+classses = 5
+train = train.txt 
+valid = val.txt 
 names = yolo.names 
 backup = backup 
