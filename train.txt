@@ -2491,4 +2491,3 @@ data/images/milo-396.jpg
 data/images/milo-397.jpg
 data/images/milo-398.jpg
 data/images/milo-399.jpg
-data/images/milo-400.jpg
