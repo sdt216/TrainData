@@ -1,2 +1,0 @@
-AFC_Box
-AFC_Package
